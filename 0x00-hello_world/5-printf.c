@@ -4,13 +4,13 @@
 
 
 /**
- * main - Print "with proper grammar, but the outcome 
- * is a piece of art," followed by newline
- * Return: Always 0.
+ *main - Print "with proper grammar, but the outcome 
+ *is a piece of art," followed by newline
+ *Return: Always 0.
  */
 
 int main(void) 
 {
-		printf("with proper grammar, but the outcome is a piece of art, \n");
+		printf("with proper grammar, but the outcome is a piece of art,\n");
 		return (0);
 }
