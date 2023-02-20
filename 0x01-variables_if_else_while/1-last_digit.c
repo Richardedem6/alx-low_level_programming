@@ -8,7 +8,7 @@
 /**
  * main - Prints a text according to number
  * Return: Always (success)
- * 
+ *
  */
 
 int main(void)
